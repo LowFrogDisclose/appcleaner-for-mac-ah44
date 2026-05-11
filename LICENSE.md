@@ -1,4 +1,4 @@
-
+AppCleaner for macOS automatic Automation: virtualization & app-uninstaller offers the most advanced AppCleaner for macOS automation, with virtualization and app-uninstaller.
 
 
 
